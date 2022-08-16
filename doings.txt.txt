@@ -1,0 +1,1 @@
+Stage 1: This is a simple procedural contact form done with procedural using bootstrap. The aim is to keep refactoring until we get to OOP-MVC.
